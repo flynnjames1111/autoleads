@@ -16,7 +16,7 @@ Lightning Leads is an all-in-one lead generation and marketing platform helping 
 3. Open `sales-leads/index.html` in your browser
 
 ### Deployment
-This project is hosted on GitHub Pages.
+This project is hosted on GitHub Pages and automatically deployed.
 
 ### Contact
 Visit [lightningLeads.com](https://lightningLeads.com) for more information.
