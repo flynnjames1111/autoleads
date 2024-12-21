@@ -1,0 +1,19 @@
+{
+  "name": "lightning-leads",
+  "version": "1.0.0",
+  "description": "Lightning Leads - Sales Lead Generation Platform",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx http-server sales-leads"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/flynnjames1111/autoleads.git"
+  },
+  "keywords": ["sales", "leads", "marketing"],
+  "author": "Lightning Leads Team",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
