@@ -1,0 +1,32 @@
+@charset "utf-8";
+@font-face {
+    font-family: 'balbooa-form-icons';
+    src: url('https://leadlocate.com/sales-leads/components/com_baforms/assets/icons/ba-icons/ba-icons.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap
+}
+
+@font-face {
+    font-family: "Font Awesome 5 Brands";
+    font-style: normal;
+    font-weight: normal;
+    font-display: swap;
+    src: url(https://leadlocate.com/sales-leads/components/com_baforms/assets/icons/fontawesome/fa-brands-400.woff) format("woff")
+}
+
+@font-face {
+    font-family: "Font Awesome 5 Free";
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(https://leadlocate.com/sales-leads/components/com_baforms/assets/icons/fontawesome/fa-regular-400.woff) format("woff")
+}
+
+@font-face {
+    font-family: "Font Awesome 5 Free";
+    font-style: normal;
+    font-weight: 900;
+    font-display: swap;
+    src: url(https://leadlocate.com/sales-leads/components/com_baforms/assets/icons/fontawesome/fa-solid-900.woff) format("woff")
+}

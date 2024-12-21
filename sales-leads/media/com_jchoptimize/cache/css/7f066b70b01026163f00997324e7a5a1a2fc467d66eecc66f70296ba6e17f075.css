@@ -1,0 +1,25 @@
+@charset "utf-8";
+@font-face {
+    font-family: 'Glyphicons Halflings';
+    src: url(https://leadlocate.com/sales-leads/templates/shaper_finance/fonts/glyphicons-halflings-regular.eot);
+    src: url(https://leadlocate.com/sales-leads/templates/shaper_finance/fonts/glyphicons-halflings-regular.eot#iefix) format('embedded-opentype'), url(https://leadlocate.com/sales-leads/templates/shaper_finance/fonts/glyphicons-halflings-regular.woff2) format('woff2'), url(https://leadlocate.com/sales-leads/templates/shaper_finance/fonts/glyphicons-halflings-regular.woff) format('woff'), url(https://leadlocate.com/sales-leads/templates/shaper_finance/fonts/glyphicons-halflings-regular.ttf) format('truetype'), url(https://leadlocate.com/sales-leads/templates/shaper_finance/fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular) format('svg');
+    font-display: swap
+}
+
+@font-face {
+    font-family: 'FontAwesome';
+    src: url('https://leadlocate.com/sales-leads/templates/shaper_finance/fonts/fontawesome-webfont.eot?v=4.7.0');
+    src: url('https://leadlocate.com/sales-leads/templates/shaper_finance/fonts/fontawesome-webfont.eot#iefix&v=4.7.0') format('embedded-opentype'), url('https://leadlocate.com/sales-leads/templates/shaper_finance/fonts/fontawesome-webfont.woff2?v=4.7.0') format('woff2'), url('https://leadlocate.com/sales-leads/templates/shaper_finance/fonts/fontawesome-webfont.woff?v=4.7.0') format('woff'), url('https://leadlocate.com/sales-leads/templates/shaper_finance/fonts/fontawesome-webfont.ttf?v=4.7.0') format('truetype'), url('https://leadlocate.com/sales-leads/templates/shaper_finance/fonts/fontawesome-webfont.svg?v=4.7.0#fontawesomeregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap
+}
+
+@font-face {
+    font-family: 'IcoMoon';
+    src: url('https://leadlocate.com/sales-leads/templates/shaper_finance/fonts/IcoMoon.eot');
+    src: url('https://leadlocate.com/sales-leads/templates/shaper_finance/fonts/IcoMoon.eot#iefix') format('embedded-opentype'), url('https://leadlocate.com/sales-leads/templates/shaper_finance/fonts/IcoMoon.woff') format('woff'), url('https://leadlocate.com/sales-leads/templates/shaper_finance/fonts/IcoMoon.ttf') format('truetype'), url('https://leadlocate.com/sales-leads/templates/shaper_finance/fonts/IcoMoon.svg#IcoMoon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap
+}
